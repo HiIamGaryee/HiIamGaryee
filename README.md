@@ -23,11 +23,11 @@ Hey, I'm **Garyee** — a full-stack software engineer who enjoys transforming a
 
 My work spans **frontend interfaces, backend APIs, databases, game-like experiences, and AI-assisted workflows**. I care about what happens after a prototype looks good: data flow, usability, edge cases, and whether the whole thing actually works.
 
-- **Experience:** 4 years of frontend development experience.
-- **Engineering focus:** React, TypeScript, Node.js, Express, API integration, and MongoDB.
-- **What I like building:** Real-world applications, interactive experiences, developer tools, and unusual product ideas.
-- **How I work:** Prototype quickly, validate assumptions, refine the details, and keep shipping.
-- **Current mindset:** Strong engineering should feel effortless to the people using it.
+- ⏳ **Experience:** 4 years of frontend development experience.
+- ⚙️ **Engineering focus:** React, TypeScript, Node.js, Express, API integration, and MongoDB.
+- 🎮 **What I like building:** Real-world applications, interactive experiences, developer tools, and unusual product ideas.
+- 🚀 **How I work:** Prototype quickly, validate assumptions, refine the details, and keep shipping.
+- 💡 **Current mindset:** Strong engineering should feel effortless to the people using it.
 
 ---
 
@@ -53,13 +53,11 @@ A few projects and explorations that reflect what I like working on. Some are st
       <sub><code>01 / POST-APOCALYPTIC FICTION</code></sub>
       <h4><a href="https://hiiamgaryee.vercel.app/project/armageddon">Armageddon</a></h4>
       <p><sub>A post-apocalyptic short story and character blog platform. Explore immersive survival narratives, detailed character profiles, world-building lore, and serialized chapters set in a collapsing world where trust, betrayal, and survival shape every decision.</sub></p>
-      <p><code>React</code> <code>Tailwind CSS</code></p>
     </td>
     <td width="50%" valign="top">
       <sub><code>02 / GAMIFIED CHINESE METAPHYSICS</code></sub>
       <h4><a href="https://hiiamgaryee.vercel.app/project/qi-tie-zui">Qi Tie Zui</a></h4>
       <p><sub>A gamified learning platform for studying Qi Men Ba Jiang through traditional Chinese metaphysics. Explore Qimen Dunjia, Bazi, Feng Shui, and I Ching concepts through interactive cases, challenges, and a journey of discovering life's patterns and mysteries.</sub></p>
-      <p><code>React</code> <code>Tailwind CSS</code></p>
     </td>
   </tr>
   <tr>
@@ -67,14 +65,12 @@ A few projects and explorations that reflect what I like working on. Some are st
       <sub><code>03 / AI-POWERED DATE PLANNING</code></sub>
       <h4><a href="https://hiiamgaryee.vercel.app/project/i-need-a-plan-for-her">I Need A Plan For Her</a></h4>
       <p><sub>AI-powered date plan generator for couples. Answer a short form (budget, location, meals, vibe, etc.), then get a curated day plan with times, venues, cost estimates, and optional romantic tips.</sub></p>
-      <p><code>React</code> <code>Tailwind CSS</code></p>
     </td>
     <td width="50%" valign="top">
       <sub><code>04 / AI &amp; EV CHARGING INTELLIGENCE</code></sub>
       <h4><a href="https://hiiamgaryee.vercel.app/hackathon/ampwise">AmpWise</a></h4>
       <p><sub>An AI-assisted decision platform for EV charging network operators that forecasts demand, detects charger faults, and turns telemetry and driver feedback into a ranked, explainable action list.</sub></p>
       <p><sub>TOP 3 — TRACK 1 · DORMATHON 2026 · Taylor's University</sub></p>
-      <p><code>React</code> <code>TypeScript</code> <code>Python</code> <code>Jupyter Notebook</code></p>
     </td>
   </tr>
 </table>
@@ -85,12 +81,12 @@ A few projects and explorations that reflect what I like working on. Some are st
 
 | Competition | Award | Project |
 | :--- | :--- | :--- |
-| **[DORMATHON 2026](https://hiiamgaryee.vercel.app/hackathon/ampwise)** | Top 3 — Track 1 | [AmpWise](https://hiiamgaryee.vercel.app/hackathon/ampwise) |
-| **[ETHKL 2024](https://hiiamgaryee.vercel.app/hackathon/eth-trust-net)** | 2nd Place — The Graph Track | [Eth Trust Net](https://hiiamgaryee.vercel.app/hackathon/eth-trust-net) |
-| **[Cosmocloud Low-Code Hackathon 2024](https://hiiamgaryee.vercel.app/hackathon/brewed-in-chaos)** | Best Category Winner — E-commerce | [Brewed In Chaos](https://hiiamgaryee.vercel.app/hackathon/brewed-in-chaos) |
-| **[UTM HACKATHON 2025](https://hiiamgaryee.vercel.app/hackathon/onboarding-buddy)** | 3rd Place Winner | [Onboarding Buddy](https://hiiamgaryee.vercel.app/hackathon/onboarding-buddy) |
-| **[JomHack Pay Hack 2024](https://hiiamgaryee.vercel.app/hackathon/fcris)** | Top 32 Semifinalist | [FCRIS](https://hiiamgaryee.vercel.app/hackathon/fcris) |
-| **[Delulu Hack 2025](https://hiiamgaryee.vercel.app/project/i-need-a-plan-for-her)** | Top 33 Semifinalist | [I Need A Plan For Her](https://hiiamgaryee.vercel.app/project/i-need-a-plan-for-her) |
+| **DORMATHON 2026** | Top 3 — Track 1 | [AmpWise](https://hiiamgaryee.vercel.app/hackathon/ampwise) |
+| **ETHKL 2024** | 2nd Place — The Graph Track | [Eth Trust Net](https://hiiamgaryee.vercel.app/hackathon/eth-trust-net) |
+| **Cosmocloud Low-Code Hackathon 2024** | Best Category Winner — E-commerce | [Brewed In Chaos](https://hiiamgaryee.vercel.app/hackathon/brewed-in-chaos) |
+| **UTM HACKATHON 2025** | 3rd Place Winner | [Onboarding Buddy](https://hiiamgaryee.vercel.app/hackathon/onboarding-buddy) |
+| **JomHack Pay Hack 2024** | Top 32 Semifinalist | [FCRIS](https://hiiamgaryee.vercel.app/hackathon/fcris) |
+| **Delulu Hack 2025** | Top 33 Semifinalist | [I Need A Plan For Her](https://hiiamgaryee.vercel.app/project/i-need-a-plan-for-her) |
 
 ---
 
@@ -103,16 +99,6 @@ When I’m away from the keyboard, I’m usually skateboarding, climbing, hiking
 ### `06 / PARTY UP`
 
 Have an interesting idea or want to build something together? [Explore my portfolio](https://hiiamgaryee.vercel.app/) or [reach out on GitHub](https://github.com/HiIamGaryee).
-
----
-
-### `07 / HOW I APPROACH SOFTWARE`
-
-| THINK | BUILD | IMPROVE |
-| :--- | :--- | :--- |
-| Start with the user and the actual problem. | Connect the UI, business logic, APIs, and data. | Test edge cases, simplify flows, and polish the experience. |
-
-> Great software isn't just a polished screen. It's all the invisible pieces working together.
 
 ---
 
