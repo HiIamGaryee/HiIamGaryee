@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="./assets/hero.svg" alt="Garyee — Full-Stack Software Engineer" width="100%" />
+  <img src="./assets/banner-github.png" alt="Garyee — Full-Stack Developer" width="100%" />
 </div>
 
 <div align="center">
@@ -9,10 +8,7 @@
   <a href="https://github.com/HiIamGaryee/HiIamGaryee"><img src="https://img.shields.io/badge/PROFILE-README%20SOURCE-141820?style=for-the-badge&logo=markdown&logoColor=D9B77B&labelColor=1C222B" alt="Profile README source" /></a>
 </div>
 
-<div align="center">
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3600&pause=1400&color=C9A66B&center=true&vCenter=true&width=680&height=42&lines=From+idea+to+working+product.;Full-stack+web+%7C+Interactive+experiences.;Build.+Experiment.+Ship.+Repeat." alt="Developer introduction" />
-</div>
+
 
 ### `01 / THE PERSON BEHIND THE CODE`
 
