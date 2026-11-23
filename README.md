@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner-github.png" alt="Garyee — Full-Stack Developer" width="100%" />
+  <img src="./assets/banner-github.png" alt="Garyee — Full-Stack Developer" width="100%" />
 </div>
 
 <div align="center">
@@ -25,33 +25,27 @@ My work spans **frontend interfaces, backend APIs, databases, game-like experien
 
 ### `02 / TECHNOLOGY STACK`
 
-<div align="center">
-  <strong>FRONTEND & INTERACTIVE</strong>
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite,threejs&theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, Vite and Three.js" />
-  <br /><br />
-  <strong>BACKEND & DATA</strong>
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,python&theme=dark" alt="Node.js, Express, MongoDB, PostgreSQL, MySQL and Python" />
-  <br /><br />
-  <strong>WORKFLOW & TOOLING</strong>
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman&theme=dark" alt="Git, GitHub, VS Code, Docker, Figma and Postman" />
-</div>
+| Area | Technologies |
+| :--- | :--- |
+| Programming | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/docs/), [Python](https://docs.python.org/3/), SQL |
+| Backend & APIs | [Node.js](https://nodejs.org/docs/latest/api/), [Express](https://expressjs.com/), REST APIs |
+| Data | [MongoDB](https://www.mongodb.com/docs/), [PostgreSQL](https://www.postgresql.org/docs/) |
+| Web & UI | [React](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/docs), [Vite](https://vite.dev/guide/) |
+| Tools & Deployment | [Git](https://git-scm.com/doc), [GitHub](https://docs.github.com/), [Docker](https://docs.docker.com/), [Figma](https://help.figma.com/) |
 
 ---
 
-### `03 / SELECTED BUILDS`
+### `03 / QUESTS COMPLETED`
 
 A few projects and explorations that reflect what I like working on. Some are still evolving, and not all have public source repositories.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>01 / INTERACTIVE STORYTELLING</sub>
-      <h3>If We Remain</h3>
-      <p>A cinematic, choice-driven survival-game experience with an emphasis on atmosphere, narrative, and immersive presentation.</p>
-      <p><code>Web</code> <code>Interactive UI</code> <code>Game Design</code></p>
+      <sub>01 / POST-APOCALYPTIC FICTION</sub>
+      <h3>Armageddon</h3>
+      <p>A post-apocalyptic story platform for survival fiction, character profiles, world lore, and serialized chapters.</p>
+      <p><code>React</code> <code>Tailwind CSS</code></p>
     </td>
     <td width="50%" valign="top">
       <sub>02 / 3D INTERACTIVE EXPERIENCE</sub>
@@ -77,12 +71,36 @@ A few projects and explorations that reflect what I like working on. Some are st
 </table>
 
 <div align="center">
+  <a href="https://hiiamgaryee.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE-MY%20PORTFOLIO-141820?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=1C222B" alt="Explore my portfolio" /></a>
+  <a href="https://hiiamgaryee.vercel.app/hackathon/ampwise"><img src="https://img.shields.io/badge/FEATURED-HACKATHON%20PROJECT-9B7948?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=1C222B" alt="View Ampwise hackathon project" /></a>
   <a href="https://github.com/HiIamGaryee?tab=repositories"><img src="https://img.shields.io/badge/VIEW_PUBLIC_REPOSITORIES-9B7948?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View public repositories" /></a>
 </div>
 
 ---
 
-### `04 / HOW I APPROACH SOFTWARE`
+### `04 / ACHIEVEMENT UNLOCKED`
+
+<div align="center">
+  <a href="https://hiiamgaryee.vercel.app/hackathon/ampwise"><strong>Ampwise Hackathon Win</strong></a>
+  <br />
+  <sub>See the project and details on my portfolio.</sub>
+</div>
+
+---
+
+### `05 / SIDE QUESTS`
+
+I like exploring fresh ideas, experimenting with interactive experiences, and turning curious concepts into small projects.
+
+---
+
+### `06 / PARTY UP`
+
+Have an interesting idea or want to build something together? [Explore my portfolio](https://hiiamgaryee.vercel.app/) or [reach out on GitHub](https://github.com/HiIamGaryee).
+
+---
+
+### `07 / HOW I APPROACH SOFTWARE`
 
 | THINK | BUILD | IMPROVE |
 | :--- | :--- | :--- |
@@ -92,7 +110,7 @@ A few projects and explorations that reflect what I like working on. Some are st
 
 ---
 
-### `05 / GITHUB ACTIVITY`
+### `08 / GITHUB ACTIVITY`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiIamGaryee&bg_color=0D1117&color=D9C29A&line=C9A66B&point=E5C88E&area=true&area_color=695135&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity for HiIamGaryee" />
@@ -103,9 +121,5 @@ A few projects and explorations that reflect what I like working on. Some are st
 ---
 
 <div align="center">
-  <h3>Have something interesting in mind?</h3>
-  <p>I'm always interested in thoughtful products, unusual ideas, and people who enjoy making things work.</p>
-  <a href="https://github.com/HiIamGaryee"><img src="https://img.shields.io/badge/LET'S_CONNECT-1C222B?style=for-the-badge&logo=github&logoColor=D9B77B" alt="Connect via GitHub" /></a>
-  <br /><br />
   <sub>Designed with intention · Built by <strong>Garyee</strong></sub>
 </div>
