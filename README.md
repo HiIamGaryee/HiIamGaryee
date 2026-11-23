@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/HiIamGaryee"><img src="https://img.shields.io/badge/GITHUB-HiIamGaryee-7B2CBF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=3A0CA3" alt="GitHub" /></a>
-  <a href="https://github.com/HiIamGaryee?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-00A896?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=4361EE" alt="Explore repositories" /></a>
+  <a href="https://hiiamgaryee.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-00A896?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=4361EE" alt="Explore repositories" /></a>
   <a href="https://github.com/HiIamGaryee/HiIamGaryee"><img src="https://img.shields.io/badge/PROFILE-README%20SOURCE-F72585?style=for-the-badge&logo=markdown&logoColor=FFFFFF&labelColor=7209B7" alt="Profile README source" /></a>
 </div>
 
