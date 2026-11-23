@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner-github.png" alt="Garyee — Full-Stack Developer" width="100%" />
+  <img src="./banner-github.png" alt="Garyee — Full-Stack Developer" width="100%" />
 </div>
 
 <div align="center">
