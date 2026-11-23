@@ -27,11 +27,11 @@ My work spans **frontend interfaces, backend APIs, databases, game-like experien
 
 | Area | Technologies |
 | :--- | :--- |
-| Programming | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/docs/), [Python](https://docs.python.org/3/), SQL |
-| Backend & APIs | [Node.js](https://nodejs.org/docs/latest/api/), [Express](https://expressjs.com/), REST APIs |
-| Data | [MongoDB](https://www.mongodb.com/docs/), [PostgreSQL](https://www.postgresql.org/docs/) |
-| Web & UI | [React](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/docs), [Vite](https://vite.dev/guide/) |
-| Tools & Deployment | [Git](https://git-scm.com/doc), [GitHub](https://docs.github.com/), [Docker](https://docs.docker.com/), [Figma](https://help.figma.com/) |
+| Programming | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="" /> JavaScript</a> · <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="" /> TypeScript</a> · <a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="" /> Python</a> · SQL |
+| Backend & APIs | <a href="https://nodejs.org/docs/latest/api/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" alt="" /> Node.js</a> · <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18" alt="" /> Express</a> · REST APIs |
+| Data | <a href="https://www.mongodb.com/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18" alt="" /> MongoDB</a> · <a href="https://www.postgresql.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18" alt="" /> PostgreSQL</a> |
+| Web & UI | <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" alt="" /> React</a> · <a href="https://tailwindcss.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="18" alt="" /> Tailwind CSS</a> · <a href="https://vite.dev/guide/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="18" alt="" /> Vite</a> |
+| Tools & Deployment | <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" alt="" /> Git</a> · <a href="https://docs.github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" alt="" /> GitHub</a> · <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18" alt="" /> Docker</a> · <a href="https://help.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="18" alt="" /> Figma</a> |
 
 ---
 
@@ -44,8 +44,9 @@ A few projects and explorations that reflect what I like working on. Some are st
     <td width="50%" valign="top">
       <sub>01 / POST-APOCALYPTIC FICTION</sub>
       <h3>Armageddon</h3>
-      <p>A post-apocalyptic story platform for survival fiction, character profiles, world lore, and serialized chapters.</p>
+      <p>A post-apocalyptic short story and character blog platform. Explore immersive survival narratives, detailed character profiles, world-building lore, and serialized chapters set in a collapsing world where trust, betrayal, and survival shape every decision.</p>
       <p><code>React</code> <code>Tailwind CSS</code></p>
+      <p><a href="https://hiiamgaryee.vercel.app/hackathon/ampwise">View the project on my portfolio</a></p>
     </td>
     <td width="50%" valign="top">
       <sub>02 / 3D INTERACTIVE EXPERIENCE</sub>
@@ -81,16 +82,16 @@ A few projects and explorations that reflect what I like working on. Some are st
 ### `04 / ACHIEVEMENT UNLOCKED`
 
 <div align="center">
-  <a href="https://hiiamgaryee.vercel.app/hackathon/ampwise"><strong>Ampwise Hackathon Win</strong></a>
+  <a href="https://hiiamgaryee.vercel.app/"><strong>View My Hackathon Wins & Projects</strong></a>
   <br />
-  <sub>See the project and details on my portfolio.</sub>
+  <sub>Explore the full list and results on my portfolio.</sub>
 </div>
 
 ---
 
 ### `05 / SIDE QUESTS`
 
-I like exploring fresh ideas, experimenting with interactive experiences, and turning curious concepts into small projects.
+When I’m away from the keyboard, I’m usually skateboarding, climbing, hiking, playing guitar, or gaming. Basically, I collect side quests in and out of the pixel world.
 
 ---
 
