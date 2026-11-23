@@ -4,7 +4,6 @@
 
 <div align="center">
   <h1>Garyee</h1>
-  <hr />
   <p><b>Bachelor of Computer Science (Honours)</b> · INTI International University</p>
   <h3>Full-Stack Developer · React · TypeScript · Node.js</h3>
   <p>Kuala Lumpur, Malaysia</p>
