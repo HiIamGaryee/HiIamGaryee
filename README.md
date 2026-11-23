@@ -53,16 +53,13 @@ A few projects and explorations that reflect what I like working on. Some are st
       <sub><code>01 / POST-APOCALYPTIC FICTION</code></sub>
       <h4><a href="https://hiiamgaryee.vercel.app/project/armageddon">Armageddon</a></h4>
       <p><sub>A post-apocalyptic short story and character blog platform. Explore immersive survival narratives, detailed character profiles, world-building lore, and serialized chapters set in a collapsing world where trust, betrayal, and survival shape every decision.</sub></p>
-      <p><sub><b>Genre:</b> Post-Apocalyptic Fiction<br /><b>Type:</b> Story &amp; Character Blog<br /><b>Focus:</b> Interactive storytelling, character profiles, and world-building</sub></p>
       <p><code>React</code> <code>Tailwind CSS</code></p>
-      <p><a href="https://hiiamgaryee.vercel.app/project/armageddon"><b>EXPLORE ARMAGEDDON →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <sub><code>02 / GAMIFIED CHINESE METAPHYSICS</code></sub>
       <h4><a href="https://hiiamgaryee.vercel.app/project/qi-tie-zui">Qi Tie Zui</a></h4>
       <p><sub>A gamified learning platform for studying Qi Men Ba Jiang through traditional Chinese metaphysics. Explore Qimen Dunjia, Bazi, Feng Shui, and I Ching concepts through interactive cases, challenges, and a journey of discovering life's patterns and mysteries.</sub></p>
       <p><code>React</code> <code>Tailwind CSS</code></p>
-      <p><a href="https://hiiamgaryee.vercel.app/project/qi-tie-zui"><b>EXPLORE QI TIE ZUI →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -70,18 +67,14 @@ A few projects and explorations that reflect what I like working on. Some are st
       <sub><code>03 / AI-POWERED DATE PLANNING</code></sub>
       <h4><a href="https://hiiamgaryee.vercel.app/project/i-need-a-plan-for-her">I Need A Plan For Her</a></h4>
       <p><sub>AI-powered date plan generator for couples. Answer a short form (budget, location, meals, vibe, etc.), then get a curated day plan with times, venues, cost estimates, and optional romantic tips.</sub></p>
-      <p><sub><b>Category:</b> AI &amp; Lifestyle<br /><b>Type:</b> Date Planning Application<br /><b>Focus:</b> Personalized itineraries, budget planning, recommendations</sub></p>
       <p><code>React</code> <code>Tailwind CSS</code></p>
-      <p><a href="https://hiiamgaryee.vercel.app/project/i-need-a-plan-for-her"><b>EXPLORE DATE PLANNER →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <sub><code>04 / AI &amp; EV CHARGING INTELLIGENCE</code></sub>
       <h4><a href="https://hiiamgaryee.vercel.app/hackathon/ampwise">AmpWise</a></h4>
       <p><sub>An AI-assisted decision platform for EV charging network operators that forecasts demand, detects charger faults, and turns telemetry and driver feedback into a ranked, explainable action list.</sub></p>
-      <p><sub><b>Category:</b> AI &amp; Energy Technology<br /><b>Type:</b> EV Charging Decision Platform<br /><b>Focus:</b> Predictive analytics, fault detection, actionable insights<br /><b>Competition:</b> DORMATHON 2026 · Taylor's University<br /><b>Achievement:</b> TOP 3 — TRACK 1 · 2026</sub></p>
+      <p><sub>TOP 3 — TRACK 1 · DORMATHON 2026 · Taylor's University</sub></p>
       <p><code>React</code> <code>TypeScript</code> <code>Python</code> <code>Jupyter Notebook</code></p>
-      <p><img src="https://img.shields.io/badge/TOP%203%20%C2%B7%20DORMATHON%202026-E3B341?style=flat-square&labelColor=0D1117" alt="TOP 3 · DORMATHON 2026" /></p>
-      <p><a href="https://hiiamgaryee.vercel.app/hackathon/ampwise"><b>EXPLORE AMPWISE →</b></a></p>
     </td>
   </tr>
 </table>
@@ -90,44 +83,14 @@ A few projects and explorations that reflect what I like working on. Some are st
 
 ### `04 / TROPHIES UNLOCKED`
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <b><a href="https://hiiamgaryee.vercel.app/hackathon/ampwise">DORMATHON 2026</a></b><br />
-      Top 3 — Track 1<br />
-      <sub>AmpWise · <a href="https://hiiamgaryee.vercel.app/hackathon/ampwise">VIEW →</a></sub>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <b><a href="https://hiiamgaryee.vercel.app/hackathon/eth-trust-net">ETHKL 2024</a></b><br />
-      2nd Place — The Graph Track<br />
-      <sub>Eth Trust Net · <a href="https://hiiamgaryee.vercel.app/hackathon/eth-trust-net">VIEW →</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <b><a href="https://hiiamgaryee.vercel.app/hackathon/brewed-in-chaos">Cosmocloud Low-Code Hackathon 2024</a></b><br />
-      Best Category Winner — E-commerce<br />
-      <sub>Brewed In Chaos · <a href="https://hiiamgaryee.vercel.app/hackathon/brewed-in-chaos">VIEW →</a></sub>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <b><a href="https://hiiamgaryee.vercel.app/hackathon/onboarding-buddy">UTM HACKATHON 2025</a></b><br />
-      3rd Place Winner<br />
-      <sub>Onboarding Buddy · <a href="https://hiiamgaryee.vercel.app/hackathon/onboarding-buddy">VIEW →</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <b><a href="https://hiiamgaryee.vercel.app/hackathon/fcris">JomHack Pay Hack 2024</a></b><br />
-      Top 32 Semifinalist<br />
-      <sub>FCRIS · <a href="https://hiiamgaryee.vercel.app/hackathon/fcris">VIEW →</a></sub>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <b><a href="https://hiiamgaryee.vercel.app/project/i-need-a-plan-for-her">Delulu Hack 2025</a></b><br />
-      Top 33 Semifinalist<br />
-      <sub>I Need A Plan For Her · <a href="https://hiiamgaryee.vercel.app/project/i-need-a-plan-for-her">VIEW →</a></sub>
-    </td>
-  </tr>
-</table>
+| Competition | Award | Project |
+| :--- | :--- | :--- |
+| **[DORMATHON 2026](https://hiiamgaryee.vercel.app/hackathon/ampwise)** | Top 3 — Track 1 | [AmpWise](https://hiiamgaryee.vercel.app/hackathon/ampwise) |
+| **[ETHKL 2024](https://hiiamgaryee.vercel.app/hackathon/eth-trust-net)** | 2nd Place — The Graph Track | [Eth Trust Net](https://hiiamgaryee.vercel.app/hackathon/eth-trust-net) |
+| **[Cosmocloud Low-Code Hackathon 2024](https://hiiamgaryee.vercel.app/hackathon/brewed-in-chaos)** | Best Category Winner — E-commerce | [Brewed In Chaos](https://hiiamgaryee.vercel.app/hackathon/brewed-in-chaos) |
+| **[UTM HACKATHON 2025](https://hiiamgaryee.vercel.app/hackathon/onboarding-buddy)** | 3rd Place Winner | [Onboarding Buddy](https://hiiamgaryee.vercel.app/hackathon/onboarding-buddy) |
+| **[JomHack Pay Hack 2024](https://hiiamgaryee.vercel.app/hackathon/fcris)** | Top 32 Semifinalist | [FCRIS](https://hiiamgaryee.vercel.app/hackathon/fcris) |
+| **[Delulu Hack 2025](https://hiiamgaryee.vercel.app/project/i-need-a-plan-for-her)** | Top 33 Semifinalist | [I Need A Plan For Her](https://hiiamgaryee.vercel.app/project/i-need-a-plan-for-her) |
 
 ---
 
@@ -154,5 +117,5 @@ Have an interesting idea or want to build something together? [Explore my portfo
 ---
 
 <div align="center">
-  <sub>Designed with intention · Built by <strong>Garyee</strong></sub>
+  <sub>Designed with intention · Built by <strong>Garyee</strong> 💙</sub>
 </div>
